@@ -19,5 +19,12 @@
     "description": "Explore our newest curated collections featuring stunning abstract and nature wallpapers.",
     "date": "2024-03-04T10:00:00Z",
     "icon": "photo.stack.fill"
-  }
+  },
+  {
+    "id": "4",
+    "title": "New Badge",
+    "description": "Badge now auto dissapears!",
+    "date": "2024-03-04T10:13:35Z",
+    "icon": "bolt"
+  },
 ]
