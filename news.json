@@ -1,30 +1,9 @@
 [
   {
     "id": "1",
-    "title": "New Creator Features",
-    "description": "We've added new tools for creators to showcase their work, including custom galleries and improved profile customization.",
-    "date": "2024-03-18T10:00:00Z",
+    "title": "New App Icons",
+    "description": "We've added new Walls app icons!",
+    "date": "2024-11-19T10:00:00Z",
     "icon": "sparkles"
-  },
-  {
-    "id": "2",
-    "title": "Performance Updates",
-    "description": "Latest update brings improved loading times and smoother animations throughout the app.",
-    "date": "2024-03-11T10:00:00Z",
-    "icon": "bolt.fill"
-  },
-  {
-    "id": "3",
-    "title": "New Collections",
-    "description": "Explore our newest curated collections featuring stunning abstract and nature wallpapers.",
-    "date": "2024-03-04T10:00:00Z",
-    "icon": "photo.stack.fill"
-  },
-  {
-    "id": "4",
-    "title": "New Badge",
-    "description": "Badge now auto dissapears!",
-    "date": "2024-11-18T13:13:35Z",
-    "icon": "bolt"
-  },
+  }
 ]
