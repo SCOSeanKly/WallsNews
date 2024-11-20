@@ -1,1 +1,17 @@
-[{"description":"We've added new Walls app icons!","id":"1","title":"New App Icons","icon":"sparkles","date":"2024-11-19T10:00:00Z"},{"date":"2024-11-20T15:16:15Z","id":"9CEA7FF6-9428-49ED-8DAE-65520A35F06E","title":"Test News Upload","description":"You can ignore this news!","icon":"bell"}]
+[
+  {
+    "date" : "2024-11-19T10:00:00Z",
+    "description" : "We've added new Walls app icons!",
+    "icon" : "sparkles",
+    "id" : "1",
+    "title" : "New App Icons"
+  },
+  
+  {
+    "date" : "2024-11-20T15:16:15Z",
+    "description" : "You can ignore this news!",
+    "icon" : "bell",
+    "id" : "9CEA7FF6-9428-49ED-8DAE-65520A35F06E",
+    "title" : "Test News Upload"
+  }
+]
