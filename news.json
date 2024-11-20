@@ -1,5 +1,13 @@
 [
   {
+    "date" : "2024-11-20T16:46:40Z",
+    "description" : "So we can see in real time the GitHub status ",
+    "icon" : "info.circle",
+    "id" : "06E23B87-2707-41BA-958F-9FE8C0B8B4FB",
+    "title" : "Added recents sections"
+  },
+  
+  {
     "date" : "2024-11-20T16:39:58Z",
     "description" : "Updating news can now be done via Walls app. I’ll just need to decide whether I want all creators to have access to it 😂",
     "icon" : "info.circle",
