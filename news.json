@@ -1,5 +1,13 @@
 [
   {
+    "date" : "2024-11-20T19:46:28Z",
+    "description" : "New TestFlight coming tomorrow. We’re very close to the final release. Time to provide feedback on bugs. Anything new can be added after release. ",
+    "icon" : "info.circle",
+    "id" : "A7F671C6-280F-4A26-9121-B68A96058A78",
+    "title" : "Hey Creators! "
+  },
+  
+  {
     "date" : "2024-11-20T16:39:58Z",
     "description" : "Updating news can now be done via Walls app. I’ll just need to decide whether I want all creators to have access to it 😂",
     "icon" : "info.circle",
