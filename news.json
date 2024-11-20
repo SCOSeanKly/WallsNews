@@ -1,5 +1,13 @@
 [
   {
+    "date" : "2024-11-20T15:40:30Z",
+    "description" : "New Item added ",
+    "icon" : "info.circle",
+    "id" : "37B17862-0C41-4653-9E46-86690007D58F",
+    "title" : "Add Test News Item"
+  },
+  
+  {
     "date" : "2024-11-19T10:00:00Z",
     "description" : "We've added new Walls app icons!",
     "icon" : "sparkles",
