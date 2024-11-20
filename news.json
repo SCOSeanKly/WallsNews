@@ -1,17 +1,3 @@
 [
-  {
-    "date" : "2024-11-20T16:19:37Z",
-    "description" : "Test ",
-    "icon" : "info.circle",
-    "id" : "0D7C83F2-40AF-4AE6-B1E0-1C77B602BE70",
-    "title" : "Adding News"
-  },
-  
-  {
-    "date" : "2024-11-20T15:16:15Z",
-    "description" : "You can ignore this news!",
-    "icon" : "bell",
-    "id" : "9CEA7FF6-9428-49ED-8DAE-65520A35F06E",
-    "title" : "Test News Upload"
-  }
+
 ]
