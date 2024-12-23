@@ -231,6 +231,39 @@
       "location": "Design Lab",
       "website": "https://x.com/MarcoOliverjgl",
       "suggestedFilePrefix": "MOL"
+    },
+     {
+      "name": "DigiDiva",
+      "avatarURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/DigiDiva.jpg",
+      "baseURL": "https://raw.githubusercontent.com/SCOSeanKly/DigiDiva_Walls_Resources/main/Wallpapers",
+      "githubRepo": "SCOSeanKly/DigiDiva_Walls_Resources",
+      "bio": "Digital artist with a flair for the dramatic.\n• Creates bold, vibrant wallpaper designs\n• Specializes in elegant aesthetics\n• Focuses on color harmony and visual balance\n• Known for incorporating modern design trends",
+      "xUsername": "postersforu",
+      "location": "Digital Studio",
+      "website": "https://x.com/postersforu",
+      "suggestedFilePrefix": "DD"
+    },
+    {
+      "name": "InfinityPixels",
+      "avatarURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/InfinityPixels.jpg",
+      "baseURL": "https://raw.githubusercontent.com/SCOSeanKly/InfinityPixels_Walls_Resources/main/Wallpapers",
+      "githubRepo": "SCOSeanKly/InfinityPixels_Walls_Resources",
+      "bio": "Pushing the boundaries of digital art.\n• Creates infinite pattern wallpapers\n• Specializes in geometric and abstract designs\n• Expert in seamless patterns and textures\n• Focuses on minimalist and modern aesthetics",
+      "xUsername": "InfinityPixels_",
+      "location": "Pixel Lab",
+      "website": "https://x.com/InfinityPixels_",
+      "suggestedFilePrefix": "IP"
+    },
+    {
+      "name": "WallpaperDude",
+      "avatarURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/WallpaperDude.jpg",
+      "baseURL": "https://raw.githubusercontent.com/SCOSeanKly/WallpaperDude_Walls_Resources/main/Wallpapers",
+      "githubRepo": "SCOSeanKly/WallpaperDude_Walls_Resources",
+      "bio": "Urban-inspired wallpaper artist.\n• Creates street art inspired designs\n• Specializes in gritty and urban aesthetics\n• Expert in texture and depth creation\n• Known for bold, striking compositions",
+      "xUsername": "Tbittz15",
+      "location": "Urban Studio",
+      "website": "https://x.com/Tbittz15",
+      "suggestedFilePrefix": "WD"
     }
   ]
 }
