@@ -155,28 +155,7 @@
       "website": "https://x.com/iDeviceArt",
       "suggestedFilePrefix": "IDA"
     },
-    {
-      "name": "Walldog",
-      "avatarURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/Walldog.jpg",
-      "baseURL": "https://raw.githubusercontent.com/SCOSeanKly/Walldog_Walls_Resources/main/Wallpapers",
-      "githubRepo": "SCOSeanKly/Walldog_Walls_Resources",
-      "bio": "Passionate wallpaper artist with a unique perspective.\n• Specializes in dynamic and vibrant designs\n• Creates eye-catching mobile wallpapers\n• Combines artistic flair with technical precision\n• Known for innovative visual compositions",
-      "xUsername": "walldog",
-      "location": "Design Studio",
-      "website": "https://x.com/walldogitis",
-      "suggestedFilePrefix": "WDG"
-    },
-   {
-      "name": "wallmaze",
-      "avatarURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/wallmaze.jpg",
-      "baseURL": "https://raw.githubusercontent.com/SCOSeanKly/wallmaze_Walls_Resources/main/Wallpapers",
-      "githubRepo": "SCOSeanKly/wallmaze_Walls_Resources",
-      "bio": "Labyrinth creator of intricate digital experiences.\n• Designs complex and engaging wallpaper compositions\n• Specializes in maze-like patterns and visual puzzles\n• Creates unique, attention-grabbing designs\n• Expert in creating depth and dimension in digital art",
-      "xUsername": "wallmaze_",
-      "location": "Design Lab",
-      "website": "https://x.com/wallmaze_",
-      "suggestedFilePrefix": "WMZ"
-    },
+    
     {
       "name": "4KWallpapers",
       "avatarURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/4KWallpapers.jpg",
