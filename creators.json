@@ -199,17 +199,6 @@
             "suggestedFilePrefix": "MOL"
         },
         {
-            "name": "DigiDiva",
-            "avatarURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/DigiDiva.jpg",
-            "baseURL": "https://raw.githubusercontent.com/SCOSeanKly/DigiDiva_Walls_Resources/main/Wallpapers",
-            "githubRepo": "SCOSeanKly/DigiDiva_Walls_Resources",
-            "bio": "Digital artist with a flair for the dramatic.\n• Creates bold, vibrant wallpaper designs\n• Specializes in elegant aesthetics\n• Focuses on color harmony and visual balance\n• Known for incorporating modern design trends",
-            "xUsername": "postersforu",
-            "location": "Digital Studio",
-            "website": "https://x.com/postersforu",
-            "suggestedFilePrefix": "DD"
-        },
-        {
             "name": "InfinityPixels",
             "avatarURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/InfinityPixels.jpg",
             "baseURL": "https://raw.githubusercontent.com/SCOSeanKly/InfinityPixels_Walls_Resources/main/Wallpapers",
@@ -232,6 +221,17 @@
             "suggestedFilePrefix": "WD"
         },
         {
+            "name": "DigiDiva",
+            "avatarURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/DigiDiva.jpg",
+            "baseURL": "https://raw.githubusercontent.com/SCOSeanKly/DigiDiva_Walls_Resources/main/Wallpapers",
+            "githubRepo": "SCOSeanKly/DigiDiva_Walls_Resources",
+            "bio": "Digital artist with a flair for the dramatic.\n• Creates bold, vibrant wallpaper designs\n• Specializes in elegant aesthetics\n• Focuses on color harmony and visual balance\n• Known for incorporating modern design trends",
+            "xUsername": "postersforu",
+            "location": "Digital Studio",
+            "website": "https://x.com/postersforu",
+            "suggestedFilePrefix": "DD"
+        },
+        {
             "name": "Artoart",
             "avatarURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/Artoart.jpg",
             "baseURL": "https://raw.githubusercontent.com/SCOSeanKly/Artoart_Walls_Resources/main/Wallpapers",
@@ -241,6 +241,17 @@
             "location": "Art Studio",
             "website": "https://x.com/arto_art8",
             "suggestedFilePrefix": "ARTO"
+        },
+        {
+            "name": "Paula",
+            "avatarURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/Paula.jpg",
+            "baseURL": "https://raw.githubusercontent.com/SCOSeanKly/Paula_Walls_Resources/main/Wallpapers",
+            "githubRepo": "SCOSeanKly/Paula_Walls_Resources",
+            "bio": "Digital artist with a flair for the finer details.\n• Creates warm, vibrant wallpaper designs\n• Specializes in elegant aesthetics\n• Focuses on color harmony and visual balance\n• Known for incorporating modern design trends",
+            "xUsername": "Pumpk1n68",
+            "location": "Pumpkin Arts",
+            "website": "https://x.com/Pumpk1n68",
+            "suggestedFilePrefix": "DD"
         }
     ]
 }
