@@ -252,6 +252,17 @@
             "location": "Pumpkin Arts",
             "website": "https://x.com/Pumpk1n68",
             "suggestedFilePrefix": "PLA"
+        },
+        {
+            "name": "iBidule",
+            "avatarURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/iBidule.jpg",
+            "baseURL": "https://raw.githubusercontent.com/SCOSeanKly/iBidule_Walls_Resources/main/Wallpapers",
+            "githubRepo": "SCOSeanKly/iBidule_Walls_Resources",
+            "bio": "Digital artist with a flair for the dramatic.\n• Creates bold, vibrant wallpaper designs\n• Specializes in elegant aesthetics\n• Focuses on color harmony and visual balance\n• Known for incorporating modern design trends",
+            "xUsername": "iBidule",
+            "location": "iBidule Walls",
+            "website": "https://x.com/iBidule",
+            "suggestedFilePrefix": "IBI"
         }
     ]
 }
