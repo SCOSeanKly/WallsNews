@@ -242,6 +242,17 @@
             "location": "iBidule Walls",
             "website": "https://x.com/_iBidule",
             "suggestedFilePrefix": "IBI"
+        },
+         {
+            "name": "Randi4K",
+            "avatarURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/Randi4K.jpg",
+            "baseURL": "https://raw.githubusercontent.com/SCOSeanKly/Randi4K_Walls_Resources/main/Wallpapers",
+            "githubRepo": "SCOSeanKly/Randi4K_Walls_Resources",
+            "bio": "Digital artist with a flair for the dramatic.\n• Creates bold, vibrant wallpaper designs\n• Specializes in elegant aesthetics\n• Focuses on color harmony and visual balance\n• Known for incorporating modern design trends",
+            "xUsername": "Randi4K",
+            "location": "Fantasy Realm",
+            "website": "https://x.com/Randi4K",
+            "suggestedFilePrefix": "RAN"
         }
     ]
 }
