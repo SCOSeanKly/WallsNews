@@ -286,6 +286,18 @@
     "location": "Behind You!",
     "website": "https://x.com/ydlabs",
     "suggestedFilePrefix": "YDL"
+},
+{
+    "name": "Hirak_Pixel",
+    "avatarURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/Hirak_Pixel.jpg",
+    "baseURL": "https://raw.githubusercontent.com/SCOSeanKly/Hirak_Pixel_Walls_Resources/main/Wallpapers",
+    "githubRepo": "SCOSeanKly/Hirak_Pixel_Walls_Resources",
+    "bio": "Pixel perfect compositions for the digital age.\n• Creates high-resolution detailed pixel art wallpapers\n• Specializes in nostalgic retro-futuristic scenes\n• Focuses on meticulous pixel placement and composition\n• Known for blending 8-bit aesthetics with modern design principles",
+    "xUsername": "Hirak_Pixel",
+    "location": "Near You",
+    "website": "https://x.com/Hirak_Pixel",
+    "suggestedFilePrefix": "HIR"
 }
+
     ]
 }
