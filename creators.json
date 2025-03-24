@@ -296,7 +296,19 @@
     "xUsername": "Hirak_Pixel",
     "location": "Near You",
     "website": "https://x.com/Hirak_Pixel",
-    "suggestedFilePrefix": "HIR"
+    "suggestedFilePrefix": "HIR",
+
+},
+{
+    "name": "hyperhuestudio",
+    "avatarURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/hyperhuestudio.jpg",
+    "baseURL": "https://raw.githubusercontent.com/SCOSeanKly/hyperhuestudio_Walls_Resources/main/Wallpapers",
+    "githubRepo": "SCOSeanKly/hyperhuestudio_Walls_Resources",
+    "bio": "Pushing the boundaries of color theory and digital art.\n• Creates vibrant, hyper-saturated wallpaper designs\n• Specializes in bold color combinations and contrasts\n• Focuses on dynamic color transitions and gradients\n• Known for eye-catching, mood-enhancing visuals",
+    "xUsername": "hyperhuestudio",
+    "location": "In The Studio",
+    "website": "https://x.com/hyperhuestudio",
+    "suggestedFilePrefix": "HHS"
 }
 
     ]
