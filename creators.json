@@ -208,7 +208,8 @@
             "xUsername": "Tbittz15",
             "location": "Urban Studio",
             "website": "https://x.com/Tbittz15",
-            "suggestedFilePrefix": "WD"
+            "suggestedFilePrefix": "WD",
+             "isRetired": true
         },
         {
             "name": "Artoart",
@@ -219,7 +220,8 @@
             "xUsername": "arto_art8",
             "location": "Art Studio",
             "website": "https://x.com/arto_art8",
-            "suggestedFilePrefix": "ARTO"
+            "suggestedFilePrefix": "ARTO",
+             "isRetired": true
         },
         {
             "name": "Paula",
