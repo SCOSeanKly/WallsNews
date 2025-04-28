@@ -300,6 +300,17 @@
     "location": "In The Studio",
     "website": "https://x.com/hyperhuestudio",
     "suggestedFilePrefix": "HHS"
+},
+{
+    "name": "Caorthannach",
+    "avatarURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/Caorthannach.jpg",
+    "baseURL": "https://raw.githubusercontent.com/SCOSeanKly/Caorthannach_Walls_Resources/main/Wallpapers",
+    "githubRepo": "SCOSeanKly/Caorthannach_Walls_Resources",
+    "bio": "Photographer  • Designer • Midjourney Content Creator • Mythologist, Unveiling the stories that shaped humanity in images",
+    "xUsername": "_Caorthannach_",
+    "location": "Currently Designing",
+    "website": "https://x.com/_Caorthannach_",
+    "suggestedFilePrefix": "CAO"
 }
 
     ]
