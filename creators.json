@@ -64,7 +64,8 @@
             "xUsername": "WallpaperBliss",
             "location": "Digital Bliss",
             "website": "https://x.com/WallpaperBliss",
-            "suggestedFilePrefix": "WB"
+            "suggestedFilePrefix": "WB",
+            "isRetired": true
         },
         {
             "name": "bressane",
