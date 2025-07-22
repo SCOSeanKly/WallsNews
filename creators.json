@@ -312,7 +312,18 @@
     "location": "Designing",
     "website": "https://x.com/_Caorthannach_",
     "suggestedFilePrefix": "CAO"
-}
+},
+{
+    "name": "Third Temple",
+    "avatarURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/ThirdTemple.jpg",
+    "baseURL": "https://raw.githubusercontent.com/SCOSeanKly/ThirdTemple_Walls_Resources/main/Wallpapers",
+    "githubRepo": "SCOSeanKly/ThirdTemple_Walls_Resources",
+    "bio": "Modern digital spaces deserve atmospheric wallpapers. My work combines bold colour gradients, radiant light diffusion, and subtle textures to create abstract compositions that evoke emotion and energy. Each wallpaper elevates screens, transforming them into visual experiences. Perfect for smartphones, tablets, and digital displays. Commercial use ready. Inspired by music, motion, and the unseen pulse of colour",
+    "xUsername": "",
+    "location": "Digital Space",
+    "website": "",
+    "suggestedFilePrefix": "TTP"
+},
 
     ]
 }
