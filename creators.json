@@ -188,7 +188,7 @@
             "website": "https://x.com/AndroidTools3",
             "suggestedFilePrefix": "ATD"
         },
-       {
+        {
             "name": "MarcoOliver",
             "avatarURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/MarcoOliver.jpg",
             "baseURL": "https://raw.githubusercontent.com/SCOSeanKly/MarcoOliver_Walls_Resources/main/Wallpapers",
@@ -198,7 +198,7 @@
             "location": "Design Lab",
             "website": "https://x.com/MarcoOliverjgl",
             "suggestedFilePrefix": "MOL",
-             "isRetired": true
+            "isRetired": true
         },
         {
             "name": "WallpaperDude",
@@ -210,7 +210,7 @@
             "location": "Urban Studio",
             "website": "https://x.com/Tbittz15",
             "suggestedFilePrefix": "WD",
-             "isRetired": true
+            "isRetired": true
         },
         {
             "name": "Artoart",
@@ -222,7 +222,7 @@
             "location": "Art Studio",
             "website": "https://x.com/arto_art8",
             "suggestedFilePrefix": "ARTO",
-             "isRetired": true
+            "isRetired": true
         },
         {
             "name": "Paula",
@@ -246,7 +246,7 @@
             "website": "https://x.com/_iBidule",
             "suggestedFilePrefix": "IBI"
         },
-         {
+        {
             "name": "Randi4K",
             "avatarURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/Randi4K.jpg",
             "baseURL": "https://raw.githubusercontent.com/SCOSeanKly/Randi4K_Walls_Resources/main/Wallpapers",
@@ -258,72 +258,70 @@
             "suggestedFilePrefix": "RAN"
         },
         {
-    "name": "RajjAryaa",
-    "avatarURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/RajjAryaa.jpg",
-    "baseURL": "https://raw.githubusercontent.com/SCOSeanKly/RajjAryaa_Walls_Resources/main/Wallpapers",
-    "githubRepo": "SCOSeanKly/RajjAryaa_Walls_Resources",
-    "bio": "Blending cultural influences with modern aesthetics.\n• Creates wallpapers inspired by South Asian art\n• Specializes in intricate patterns and textures\n• Focuses on rich, jewel-toned color palettes\n• Known for meditative and harmonious designs",
-    "xUsername": "RajjAryaa",
-    "location": "Somewhere Out There",
-    "website": "https://x.com/RajjAryaa",
-    "suggestedFilePrefix": "RAJ"
-},
-{
-    "name": "Deep_Screens",
-    "avatarURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/Deep_Screens.jpg",
-    "baseURL": "https://raw.githubusercontent.com/SCOSeanKly/Deep_Screens_Walls_Resources/main/Wallpapers",
-    "githubRepo": "SCOSeanKly/Deep_Screens_Walls_Resources",
-    "bio": "Exploring the depths of digital imagination.\n• Creates abstract and surreal wallpapers\n• Focuses on immersive visual experiences\n• Known for hypnotic gradients and dimensionality",
-    "xUsername": "Deep_Screens",
-    "location": "Digital Cosmos",
-    "website": "https://x.com/Deep_Screens",
-    "suggestedFilePrefix": "DSC"
-},
-{
-    "name": "Hirak_Pixel",
-    "avatarURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/Hirak_Pixel.jpg",
-    "baseURL": "https://raw.githubusercontent.com/SCOSeanKly/Hirak_Pixel_Walls_Resources/main/Wallpapers",
-    "githubRepo": "SCOSeanKly/Hirak_Pixel_Walls_Resources",
-    "bio": "Pixel perfect compositions for the digital age.\n• Creates high-resolution detailed pixel art wallpapers\n• Specializes in nostalgic retro-futuristic scenes\n• Focuses on meticulous pixel placement and composition\n• Known for blending 8-bit aesthetics with modern design principles",
-    "xUsername": "Hirak_Pixel",
-    "location": "Near You",
-    "website": "https://x.com/Hirak_Pixel",
-    "suggestedFilePrefix": "HIR",
-
-},
-{
-    "name": "hyperhuestudio",
-    "avatarURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/hyperhuestudio.jpg",
-    "baseURL": "https://raw.githubusercontent.com/SCOSeanKly/hyperhuestudio_Walls_Resources/main/Wallpapers",
-    "githubRepo": "SCOSeanKly/hyperhuestudio_Walls_Resources",
-    "bio": "Pushing the boundaries of color theory and digital art.\n• Creates vibrant, hyper-saturated wallpaper designs\n• Specializes in bold color combinations and contrasts\n• Focuses on dynamic color transitions and gradients\n• Known for eye-catching, mood-enhancing visuals",
-    "xUsername": "hyperhuestudio",
-    "location": "In The Studio",
-    "website": "https://x.com/hyperhuestudio",
-    "suggestedFilePrefix": "HHS"
-},
-{
-    "name": "IX",
-    "avatarURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/Caorthannach.jpg",
-    "baseURL": "https://raw.githubusercontent.com/SCOSeanKly/Caorthannach_Walls_Resources/main/Wallpapers",
-    "githubRepo": "SCOSeanKly/Caorthannach_Walls_Resources",
-    "bio": "Photographer  • Designer • Midjourney Content Creator • Mythologist, Unveiling the stories that shaped humanity in images",
-    "xUsername": "_Caorthannach_",
-    "location": "Designing",
-    "website": "https://x.com/_Caorthannach_",
-    "suggestedFilePrefix": "CAO"
-},
-{
-    "name": "Third Temple",
-    "avatarURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/ThirdTemple.jpg",
-    "baseURL": "https://raw.githubusercontent.com/SCOSeanKly/ThirdTemple_Walls_Resources/main/Wallpapers",
-    "githubRepo": "SCOSeanKly/ThirdTemple_Walls_Resources",
-    "bio": "Modern digital spaces deserve atmospheric wallpapers. My work combines bold colour gradients, radiant light diffusion, and subtle textures to create abstract compositions that evoke emotion and energy. Each wallpaper elevates screens, transforming them into visual experiences. Perfect for smartphones, tablets, and digital displays. Commercial use ready. Inspired by music, motion, and the unseen pulse of colour",
-    "xUsername": "",
-    "location": "Digital Space",
-    "website": "",
-    "suggestedFilePrefix": "TTP"
-},
-
+            "name": "RajjAryaa",
+            "avatarURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/RajjAryaa.jpg",
+            "baseURL": "https://raw.githubusercontent.com/SCOSeanKly/RajjAryaa_Walls_Resources/main/Wallpapers",
+            "githubRepo": "SCOSeanKly/RajjAryaa_Walls_Resources",
+            "bio": "Blending cultural influences with modern aesthetics.\n• Creates wallpapers inspired by South Asian art\n• Specializes in intricate patterns and textures\n• Focuses on rich, jewel-toned color palettes\n• Known for meditative and harmonious designs",
+            "xUsername": "RajjAryaa",
+            "location": "Somewhere Out There",
+            "website": "https://x.com/RajjAryaa",
+            "suggestedFilePrefix": "RAJ"
+        },
+        {
+            "name": "Deep_Screens",
+            "avatarURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/Deep_Screens.jpg",
+            "baseURL": "https://raw.githubusercontent.com/SCOSeanKly/Deep_Screens_Walls_Resources/main/Wallpapers",
+            "githubRepo": "SCOSeanKly/Deep_Screens_Walls_Resources",
+            "bio": "Exploring the depths of digital imagination.\n• Creates abstract and surreal wallpapers\n• Focuses on immersive visual experiences\n• Known for hypnotic gradients and dimensionality",
+            "xUsername": "Deep_Screens",
+            "location": "Digital Cosmos",
+            "website": "https://x.com/Deep_Screens",
+            "suggestedFilePrefix": "DSC"
+        },
+        {
+            "name": "Hirak_Pixel",
+            "avatarURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/Hirak_Pixel.jpg",
+            "baseURL": "https://raw.githubusercontent.com/SCOSeanKly/Hirak_Pixel_Walls_Resources/main/Wallpapers",
+            "githubRepo": "SCOSeanKly/Hirak_Pixel_Walls_Resources",
+            "bio": "Pixel perfect compositions for the digital age.\n• Creates high-resolution detailed pixel art wallpapers\n• Specializes in nostalgic retro-futuristic scenes\n• Focuses on meticulous pixel placement and composition\n• Known for blending 8-bit aesthetics with modern design principles",
+            "xUsername": "Hirak_Pixel",
+            "location": "Near You",
+            "website": "https://x.com/Hirak_Pixel",
+            "suggestedFilePrefix": "HIR"
+        },
+        {
+            "name": "hyperhuestudio",
+            "avatarURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/hyperhuestudio.jpg",
+            "baseURL": "https://raw.githubusercontent.com/SCOSeanKly/hyperhuestudio_Walls_Resources/main/Wallpapers",
+            "githubRepo": "SCOSeanKly/hyperhuestudio_Walls_Resources",
+            "bio": "Pushing the boundaries of color theory and digital art.\n• Creates vibrant, hyper-saturated wallpaper designs\n• Specializes in bold color combinations and contrasts\n• Focuses on dynamic color transitions and gradients\n• Known for eye-catching, mood-enhancing visuals",
+            "xUsername": "hyperhuestudio",
+            "location": "In The Studio",
+            "website": "https://x.com/hyperhuestudio",
+            "suggestedFilePrefix": "HHS"
+        },
+        {
+            "name": "IX",
+            "avatarURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/Caorthannach.jpg",
+            "baseURL": "https://raw.githubusercontent.com/SCOSeanKly/Caorthannach_Walls_Resources/main/Wallpapers",
+            "githubRepo": "SCOSeanKly/Caorthannach_Walls_Resources",
+            "bio": "Photographer  • Designer • Midjourney Content Creator • Mythologist, Unveiling the stories that shaped humanity in images",
+            "xUsername": "_Caorthannach_",
+            "location": "Designing",
+            "website": "https://x.com/_Caorthannach_",
+            "suggestedFilePrefix": "CAO"
+        },
+        {
+            "name": "Third Temple",
+            "avatarURL": "https://raw.githubusercontent.com/SCOSeanKly/M_Resources/main/CreatorAvatars/ThirdTemple.jpg",
+            "baseURL": "https://raw.githubusercontent.com/SCOSeanKly/ThirdTemple_Walls_Resources/main/Wallpapers",
+            "githubRepo": "SCOSeanKly/ThirdTemple_Walls_Resources",
+            "bio": "Modern digital spaces deserve atmospheric wallpapers. My work combines bold colour gradients, radiant light diffusion, and subtle textures to create abstract compositions that evoke emotion and energy. Each wallpaper elevates screens, transforming them into visual experiences. Perfect for smartphones, tablets, and digital displays. Commercial use ready. Inspired by music, motion, and the unseen pulse of colour",
+            "xUsername": "",
+            "location": "Digital Space",
+            "website": "",
+            "suggestedFilePrefix": "TTP"
+        }
     ]
 }
